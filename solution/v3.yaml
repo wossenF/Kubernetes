@@ -26,7 +26,7 @@ data:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mydeployment
+  name: ugr-1993-13
   labels:
     app: mywebapp
 spec:
